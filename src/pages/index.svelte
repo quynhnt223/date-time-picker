@@ -1,0 +1,1 @@
+<a href="/datepicker/red">click me</a>
