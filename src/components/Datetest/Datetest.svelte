@@ -4,9 +4,9 @@
    import { alertme, ScrollToCurrentWeek, DateList } from './function.svelte'
     
    let getUrl
-   let dates = DateList(getUrl)
+   let dates = "DateList(getUrl)"
 
-
+"
    //test
    const testDate =  document.querySelectorAll(".date")
    testDate.forEach(item => {
